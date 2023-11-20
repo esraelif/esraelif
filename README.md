@@ -11,8 +11,13 @@
  </p>
 </br>
 
+<<<<<<< HEAD
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=esraelif&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraelif&hide=TeX&layout=compact) </br>
+=======
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HarveyCla&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&hide=TeX&layout=compact) </br>
+>>>>>>> 5d50352a8803a2a0d1c5790bae39d5d7c5390dc3
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=esraelif.esraelif)
 
 ## Skills

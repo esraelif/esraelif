@@ -13,7 +13,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HarveyCla&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarveyCla.HarveyCla)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=esraelif.esraelif)
 
 ## Skills
 

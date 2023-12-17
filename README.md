@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://esraelif.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:elifesratunca@gmail" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="https://www.linkedin.com/in/harveyy/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
+  <a href="www.linkedin.com/in/esraelifyeter" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
 <p align="right">

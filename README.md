@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I am a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. With a keen eye for detail and a problem-solving mindset, I thrive in creating seamless and efficient web applications. My proficiency includes working with languages such as JavaScript, Python, and frameworks like React and Django. I am dedicated to staying updated with the latest industry trends and technologies to deliver cutting-edge solutions.
+  I'm a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. With a keen eye for detail and a problem-solving mindset, I thrive in creating seamless and efficient web applications. My proficiency includes working with languages such as JavaScript, Python, and frameworks like React and Django. I am dedicated to staying updated with the latest industry trends and technologies to deliver cutting-edge solutions.
   <br>
   <div>
   <a href="https://esraelif.netlify.app/" target="_blank" align="center">
